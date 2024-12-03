@@ -7,11 +7,12 @@
  */
 const USER_CONFIG = {
 
+  USE_PASSAGE: 'push-plus',
   // 使用微信测试号：公众号APP_ID
-  APP_ID: 'wx7a2cbbc4e2a0f09a',
+  APP_ID: '',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: '25083b2abd33435b0c7f502b435f0c96',
+  APP_SECRET: '',
 
   PROVINCE: '陕西',
   CITY: '汉中',
@@ -21,9 +22,9 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '晗宝',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'ofxzP6OZemxxgdem0pUAiRw8dwLs',
+      id: '37090e26ced1457882d55c8e705c033a',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'pa6CAv092JuzB29Sw237Tby6vpgONnfDwOm-HMGF5v0',
+      useTemplateId: '0001',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '10-26',
       festivals: [
