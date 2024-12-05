@@ -9,10 +9,10 @@
 
 //   // USE_PASSAGE: 'push-plus',
 //   // 使用微信测试号：公众号APP_ID
-//   APP_ID: 'wx7a2cbbc4e2a0f09a',
+//   APP_ID: '',
 
 //   // 使用微信测试号：公众号APP_SECRET
-//   APP_SECRET: '25083b2abd33435b0c7f502b435f0c96',
+//   APP_SECRET: '',
 
 //   PROVINCE: '陕西',
 //   CITY: '汉中',
