@@ -345,8 +345,7 @@ const USER_CONFIG = {
     {
       keyword: 'lover_prattle',
       contents: [
-        '因为太喜欢你，所以看谁都像是情敌。',
-        '申请成为你爱里的永久居民。',
+        '好想你。',
       ],
     }
     // 你可以不断按格式往下增加
