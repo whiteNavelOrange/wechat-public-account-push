@@ -345,7 +345,7 @@ const USER_CONFIG = {
     {
       keyword: 'lover_prattle',
       contents: [
-        '早上好，我的全世界！',
+        '梦里的你好美，醒来发现身旁没有你，好难过',
       ],
     }
     // 你可以不断按格式往下增加
