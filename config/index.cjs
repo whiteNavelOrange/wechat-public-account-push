@@ -345,7 +345,7 @@ const USER_CONFIG = {
     {
       keyword: 'lover_prattle',
       contents: [
-        '梦里的你好美，醒来发现身旁没有你，好难过',
+        '遇见你才知道古代美人计的威力',
       ],
     }
     // 你可以不断按格式往下增加
