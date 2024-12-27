@@ -346,7 +346,7 @@ const USER_CONFIG = {
     {
       keyword: 'lover_prattle',
       contents: [
-        '感性让我爱上你，理性给我能力去爱你！'
+        '不要用伤害我的方式确认我爱不爱你，好吗'
       ],
     }
     // 你可以不断按格式往下增加
