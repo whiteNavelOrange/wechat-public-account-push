@@ -346,7 +346,7 @@ const USER_CONFIG = {
     {
       keyword: 'lover_prattle',
       contents: [
-        '因为想念，所以总想见'
+        '才下眉头，却上心头'
       ],
     }
     // 你可以不断按格式往下增加
