@@ -346,7 +346,7 @@ const USER_CONFIG = {
     {
       keyword: 'lover_prattle',
       contents: [
-        '才下眉头，却上心头'
+        '喜欢你一见我就笑'
       ],
     }
     // 你可以不断按格式往下增加
