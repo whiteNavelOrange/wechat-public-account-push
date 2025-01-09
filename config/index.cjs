@@ -346,7 +346,7 @@ const USER_CONFIG = {
     {
       keyword: 'lover_prattle',
       contents: [
-        '违背基因的自私去爱你！'
+        '辛苦了宝宝'
       ],
     }
     // 你可以不断按格式往下增加
