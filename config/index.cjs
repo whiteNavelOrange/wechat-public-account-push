@@ -346,7 +346,7 @@ const USER_CONFIG = {
     {
       keyword: 'lover_prattle',
       contents: [
-        '再见'
+        '我们有的是以后，以后都是我们'
       ],
     }
     // 你可以不断按格式往下增加
