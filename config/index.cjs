@@ -346,7 +346,7 @@ const USER_CONFIG = {
     {
       keyword: 'lover_prattle',
       contents: [
-        '对不起，我错了'
+        '只要你要，只要我有，我的爱与你同在'
       ],
     }
     // 你可以不断按格式往下增加
