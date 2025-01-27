@@ -346,7 +346,7 @@ const USER_CONFIG = {
     {
       keyword: 'lover_prattle',
       contents: [
-        '早上起来，看到你和阳光都在，就是我想要的未来'
+        '对不起，我错了'
       ],
     }
     // 你可以不断按格式往下增加
