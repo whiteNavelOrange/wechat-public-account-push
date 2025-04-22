@@ -346,7 +346,7 @@ const USER_CONFIG = {
     {
       keyword: 'lover_prattle',
       contents: [
-        '我的心永远偏向你'
+        '今天可以和这位美丽的小姐一起吃个饭吗'
       ],
     }
     // 你可以不断按格式往下增加
