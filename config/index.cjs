@@ -346,7 +346,7 @@ const USER_CONFIG = {
     {
       keyword: 'lover_prattle',
       contents: [
-        '今天可以和这位美丽的小姐一起吃个饭吗'
+        '超级超级超级超级超级无敌喜欢你'
       ],
     }
     // 你可以不断按格式往下增加
