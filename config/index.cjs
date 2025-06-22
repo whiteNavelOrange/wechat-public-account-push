@@ -346,7 +346,7 @@ const USER_CONFIG = {
     {
       keyword: 'lover_prattle',
       contents: [
-        '好想你'
+        '爱情是同频的星球相互吸引'
       ],
     }
     // 你可以不断按格式往下增加
