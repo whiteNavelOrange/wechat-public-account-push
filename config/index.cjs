@@ -346,7 +346,7 @@ const USER_CONFIG = {
     {
       keyword: 'lover_prattle',
       contents: [
-        '我爱你'
+        '不思量，自难忘'
       ],
     }
     // 你可以不断按格式往下增加
