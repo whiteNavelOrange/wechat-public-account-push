@@ -346,7 +346,7 @@ const USER_CONFIG = {
     {
       keyword: 'lover_prattle',
       contents: [
-        '想你的笑容'
+        '希望我们有说不完的话！'
       ],
     }
     // 你可以不断按格式往下增加
@@ -358,3 +358,4 @@ module.exports = USER_CONFIG
 
 
 
+  
