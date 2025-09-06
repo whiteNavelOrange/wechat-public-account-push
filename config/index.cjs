@@ -346,7 +346,7 @@ const USER_CONFIG = {
     {
       keyword: 'lover_prattle',
       contents: [
-        '想要我们有说不完的话！'
+        '我爱你！'
       ],
     }
     // 你可以不断按格式往下增加
