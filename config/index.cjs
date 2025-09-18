@@ -1,4 +1,4 @@
-// /* eslint-disable */
+；// /* eslint-disable */
 
 // /**
 //  * 此项目配置为方便新人使用，已缩减至最简配置。
@@ -346,7 +346,7 @@ const USER_CONFIG = {
     {
       keyword: 'lover_prattle',
       contents: [
-        '谢谢宝宝的理解'
+        '天天梦到你'
       ],
     }
     // 你可以不断按格式往下增加
