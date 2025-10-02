@@ -346,7 +346,7 @@ const USER_CONFIG = {
     {
       keyword: 'lover_prattle',
       contents: [
-        '想你了'
+        '想带你回家'
       ],
     }
     // 你可以不断按格式往下增加
