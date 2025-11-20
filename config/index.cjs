@@ -346,7 +346,7 @@ const USER_CONFIG = {
     {
       keyword: 'lover_prattle',
       contents: [
-        '想你是粘人精'
+        '1000天快乐，我的香宝！'
       ],
     }
     // 你可以不断按格式往下增加
