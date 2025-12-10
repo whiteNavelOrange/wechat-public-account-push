@@ -346,7 +346,7 @@ const USER_CONFIG = {
     {
       keyword: 'lover_prattle',
       contents: [
-        '对你没有偏袒的意思，是正儿八经的偏心'
+        '我一直是你的底气'
       ],
     }
     // 你可以不断按格式往下增加
