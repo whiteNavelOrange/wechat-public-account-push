@@ -346,7 +346,7 @@ const USER_CONFIG = {
     {
       keyword: 'lover_prattle',
       contents: [
-        '你是蜂蜜，那我就是熊，嘿嘿'
+        '男人责任心的出现是因为有了他想守护的女人，我也一样'
       ],
     }
     // 你可以不断按格式往下增加
