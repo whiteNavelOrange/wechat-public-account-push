@@ -346,7 +346,7 @@ const USER_CONFIG = {
     {
       keyword: 'lover_prattle',
       contents: [
-        '男人责任心的出现是因为有了他想守护的女人，我也一样'
+        '圣诞快乐！'
       ],
     }
     // 你可以不断按格式往下增加
