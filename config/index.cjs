@@ -346,7 +346,7 @@ const USER_CONFIG = {
     {
       keyword: 'lover_prattle',
       contents: [
-        '给你的爱一直很纯粹'
+        '唯有见你是青山'
       ],
     }
     // 你可以不断按格式往下增加
