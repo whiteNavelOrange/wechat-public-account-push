@@ -346,7 +346,7 @@ const USER_CONFIG = {
     {
       keyword: 'lover_prattle',
       contents: [
-        '你不用多好，我喜欢你就好'
+        '该怎么形容你最贴切'
       ],
     }
     // 你可以不断按格式往下增加
