@@ -346,7 +346,7 @@ const USER_CONFIG = {
     {
       keyword: 'lover_prattle',
       contents: [
-        '你开心我也会开心'
+        '想你了'
       ],
     }
     // 你可以不断按格式往下增加
