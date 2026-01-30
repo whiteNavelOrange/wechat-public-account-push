@@ -186,9 +186,9 @@ const USER_CONFIG = {
       // 使用其他通道时，请填写 config/template-config.cjs 中某个想要使用的模板的id
       useTemplateId: 'XGP6vPwdpPDEv5sZ7GEwD0cUSSaXqTr0YayP5F8tLOM',
       // 所在省份或城市，也可以不填
-      province: '西安市',
+      province: '汉中市',
       // 所在城市或县区
-      city: '长安区',
+      city: '汉台区',
       // 新历生日, 仅用作获取星座运势, 格式必须
       horoscopeDate: '10-26',
       // 获取什么时候的星座运势，可选：['今日', '明日', '本周', '本月', '今年'], 留空则随机
@@ -346,7 +346,7 @@ const USER_CONFIG = {
     {
       keyword: 'lover_prattle',
       contents: [
-        '该怎么形容你最贴切'
+        '你开心我也会开心'
       ],
     }
     // 你可以不断按格式往下增加
