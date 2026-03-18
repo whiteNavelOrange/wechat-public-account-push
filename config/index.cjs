@@ -346,7 +346,7 @@ const USER_CONFIG = {
     {
       keyword: 'lover_prattle',
       contents: [
-        '早上好啊小宝'
+        '化悲痛为力量'
       ],
     }
     // 你可以不断按格式往下增加
